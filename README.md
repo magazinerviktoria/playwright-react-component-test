@@ -1,2 +1,2 @@
-# playwright---react---component---test
+# playwright-react-component-test
 React testing with Playwright 
